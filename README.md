@@ -1,4 +1,4 @@
-# StudendStore
+# StudentStore
 
 Collaboration with - https://github.com/Shreshth23 
 
